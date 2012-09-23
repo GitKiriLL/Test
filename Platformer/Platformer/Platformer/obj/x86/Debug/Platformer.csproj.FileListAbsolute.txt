@@ -1,0 +1,6 @@
+E:\GameDev\MaxTozzz\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+E:\GameDev\MaxTozzz\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+E:\GameDev\MaxTozzz\Platformer\Platformer\Platformer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GameDev\MaxTozzz\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\GameDev\MaxTozzz\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+E:\GameDev\MaxTozzz\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
