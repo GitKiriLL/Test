@@ -1,6 +1,0 @@
-E:\VisualStudioProjects\TestGit\TestGit\TestGit\bin\x86\Debug\TestGit.exe
-E:\VisualStudioProjects\TestGit\TestGit\TestGit\bin\x86\Debug\TestGit.pdb
-E:\VisualStudioProjects\TestGit\TestGit\TestGit\obj\x86\Debug\ResolveAssemblyReference.cache
-E:\VisualStudioProjects\TestGit\TestGit\TestGit\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-E:\VisualStudioProjects\TestGit\TestGit\TestGit\obj\x86\Debug\TestGit.exe
-E:\VisualStudioProjects\TestGit\TestGit\TestGit\obj\x86\Debug\TestGit.pdb
